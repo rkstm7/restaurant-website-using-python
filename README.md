@@ -1,6 +1,6 @@
 # Fast Food Restaurant Django Project
 
-**Author:** [Your Name Here]
+**Author:** [Rohit Kumar Singh]
 
 ![Project Banner](https://github.com/rkstm7/images/blob/main/restaurant_dashboard1.png)  
 ![Project Banner](https://github.com/rkstm7/images/blob/main/restaurant_dashboard2.png)  
